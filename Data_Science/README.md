@@ -23,12 +23,12 @@ scikit learn
 Inferential statistics Descriptive statistics  
 Linear Algebra Probability Calculus
 
-###Part 4: Exploratory Data analysis 
+### Part 4: Exploratory Data analysis 
 How to Load Machine Learning Data  
 Understand Your Data with Descriptive Statistics  
 Understand Your Data with Visualization  
 
-###Part 5: Feature Engineering 
+### Part 5: Feature Engineering 
 Prepare Your Data for Machine Learning  
 Need For Data Pre processing  
 Data Transforms  
